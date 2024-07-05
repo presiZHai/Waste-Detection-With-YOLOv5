@@ -1,1 +1,8 @@
-# Waste-Detection-With-YOLOv5
+# Waste Detection Using YOLOv5
+
+## Workflows
+* constants
+* entity
+* components
+* pipelines
+* app.py
